@@ -84,6 +84,7 @@ Randomization Seeds
     - Monthly Cycle [Default: Sprint Planning]
 
 Adaption Mechanics
+
     - Skill-based Scenario [Default: Intermediate]
     - Performance Feedback [Default: Neutral Outcomes]
     - Dynamic Difficulty [Default: Balanced]
